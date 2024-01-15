@@ -1,0 +1,9 @@
+Build/
+*.pyc
+*.pb.h
+DEBUG
+Release
+x64
+*.pb.cc
+*.user
+*.vs
